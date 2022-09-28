@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace LINQtraining
 {
@@ -104,16 +99,21 @@ namespace LINQtraining
             //Console.ReadKey();
 
             //Aufgabe 10
-            Console.WriteLine("Gib einen satz mit UPPER und lower case wörtern ein: ");
-            string userSentence = Console.ReadLine();
+            //Console.WriteLine("Gib einen satz mit UPPER und lower case wörtern ein: ");
+            //string userSentence = Console.ReadLine();
+            //string[] strings = userSentence.Split(' ');
+            //foreach (string s in strings.Where(s => s == s.ToUpper()))
+            //{
+            //    Console.Clear();
+            //    Console.WriteLine(s);
+            //}
+            //
+            //Console.ReadKey();
 
-            
-
-            List<string> words = new List<string>();
-            
 
 
-            
+
+
         }
     }
 }
