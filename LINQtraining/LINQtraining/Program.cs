@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LINQtraining
+﻿namespace LINQtraining
 {
     internal class Program
     {
@@ -56,9 +49,9 @@ namespace LINQtraining
             //string c1 = Console.ReadLine();
             //Console.WriteLine("Mit welchem Buchstaben soll die Stadt endemn?: ");
             //string c2 = Console.ReadLine();
-//
+            //
             //Console.Clear();
-//
+            //
             ////Liste
             //List<string> cities = new List<string>() { "ROME", "LONDON", "NAIROBI", "CALIFORNIA", "ZURICH", "NEW DELHI", "AMSTERDAM", "ABU DHABI", "PARIS" };
             //
