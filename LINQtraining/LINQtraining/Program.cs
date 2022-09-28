@@ -4,6 +4,7 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace LINQtraining
 {
@@ -11,19 +12,22 @@ namespace LINQtraining
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Would u like to start?: (y/n)");
-            char userStart = Convert.ToChar(Console.ReadLine());
 
-            if (userStart == 'y')
+            //Aufgabe 8
+
+            string c1 = "A";
+            string c2 = "M";
+
+            //Liste
+           List<string> cities = new List<string>() { "ROME", "LONDON", "NAIROBI", "CALIFORNIA", "ZURICH", "NEW DELHI", "AMSTERDAM", "ABU DHABI", "PARIS" };
+
+            foreach(string city in cities)
             {
-                Console.Clear();
-                Console.WriteLine("Welcome!");
+                if (city.StartsWith(c1.ToUpper()) && city.EndsWith(c2.ToUpper()))
+                {
+                    Console.WriteLine(city);
+                }
             }
-            else {
-                Console.Clear();
-                Console.WriteLine("GoodBye");
-            };
-
             Console.ReadKey();
         }
     }
