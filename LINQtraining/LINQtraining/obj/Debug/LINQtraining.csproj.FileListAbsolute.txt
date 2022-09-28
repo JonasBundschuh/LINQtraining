@@ -1,0 +1,8 @@
+C:\Projetcs\LINQtraining\LINQtraining\LINQtraining\bin\Debug\LINQtraining.exe.config
+C:\Projetcs\LINQtraining\LINQtraining\LINQtraining\bin\Debug\LINQtraining.exe
+C:\Projetcs\LINQtraining\LINQtraining\LINQtraining\bin\Debug\LINQtraining.pdb
+C:\Projetcs\LINQtraining\LINQtraining\LINQtraining\obj\Debug\LINQtraining.csproj.AssemblyReference.cache
+C:\Projetcs\LINQtraining\LINQtraining\LINQtraining\obj\Debug\LINQtraining.csproj.SuggestedBindingRedirects.cache
+C:\Projetcs\LINQtraining\LINQtraining\LINQtraining\obj\Debug\LINQtraining.csproj.CoreCompileInputs.cache
+C:\Projetcs\LINQtraining\LINQtraining\LINQtraining\obj\Debug\LINQtraining.exe
+C:\Projetcs\LINQtraining\LINQtraining\LINQtraining\obj\Debug\LINQtraining.pdb
